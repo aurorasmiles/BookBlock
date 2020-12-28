@@ -1,0 +1,5 @@
+name: BookBlock
+version: ${project.version}
+main: codes.aurora.bookblock.BookBlock
+api-version: 1.16
+description: Blocks Interaction with books
